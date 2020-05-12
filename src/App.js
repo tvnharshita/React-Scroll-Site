@@ -38,6 +38,7 @@ function App() {
         id="cook"
         order="0"
       />
+
       <PageSyntax
         heading="Find what your body needs"
         subText={innerText}
