@@ -6,6 +6,7 @@ import { Link, animateScroll as scroll } from "react-scroll";
 const menuItems = ["Home", "About", "Contact", "Questions"];
 const navStyle = {
   background: `url(${IntroImage})`,
+  width: "100%",
   marginTop: "0px",
   backgroundRepeat: "repeat",
   backgroundPosition: "center",
